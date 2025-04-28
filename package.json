@@ -20,6 +20,6 @@
   "dependencies": {
     "@iconify/json": "^2.1.82",
     "chalk": "^5.0.1",
-    "puppeteer": "^15.5.0"
+    "puppeteer": "^24.4.0"
   }
 }
